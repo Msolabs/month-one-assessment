@@ -1,10 +1,10 @@
 # Terraform
 .terraform/
-*.tfstate
-*.tfstate.*
+*.tfstate.backup
 crash.log
 terraform.tfvars
 *.tfplan
+*.pem
 
 # VS Code
 .vscode/

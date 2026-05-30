@@ -7,4 +7,4 @@ db_instance_type      = "t3.small"
 
 key_pair_name = "techcorp-key"
 
-my_ip = "102.89.84.96/32"
+my_ip = "105.112.71.109/32"

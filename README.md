@@ -1,19 +1,3 @@
-No — **don’t paste the assessment question into the README**. Your `README.md` should explain **what you built and how to run it**, not repeat the assignment.
-
-Use a proper project README showing:
-
-* Project overview
-* Architecture
-* Features
-* Prerequisites
-* Deployment steps
-* SSH access
-* Verification
-* Cleanup (`terraform destroy`)
-* Evidence folder
-
-Use this instead in your `README.md`:
-
 # TechCorp AWS Infrastructure Deployment using Terraform
 
 ## Project Overview
